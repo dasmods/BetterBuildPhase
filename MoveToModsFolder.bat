@@ -1,0 +1,1 @@
+xcopy /Y "WorkshopFolder" "D:\Program Files (x86)\Steam\steamapps\common\PlateUp\PlateUp\Mods\BetterBuildPhase" /s /e /i
